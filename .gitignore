@@ -1,0 +1,13 @@
+# 训练输出
+ultralytics/runs/
+
+# 推理可视化
+ultralytics/infer_debug/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# 数据集（不上传）
+datasets2/
